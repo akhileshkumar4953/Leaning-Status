@@ -1,0 +1,72 @@
+✅Section 1:Introduction
+	✓1. Course Introduction
+	✓2. Why Netflix Migrated to Microservices
+	✓3. My Top Udemy Courses - Don't Skip
+	✓4. Best Way to Take this Course and How to Get Help
+	✓5. Download Lecture Notes in PDF
+	✓6. Guide to Set up Development Environment
+
+✅Section 2:Setting up Development Environment
+	✓7. Install Java JDK 25
+	✓8. Install IntelliJ IDEA
+	✓9. Install MySQL Server and Workbench
+	✓10. Install Postman
+✅Section 3:Setting up Development Environment	
+	✓11. What is REST API?
+	✓12. REST Architectural Constraints
+	✓13. REST Key Concepts – Resource, Sub-resource, and URI 
+	✓14. HTTP Methods – GET, POST, PUT, DELETE
+	✓15. HTTP Status Codes
+✅Section 4:REST API Fundamentals-Design REST APIs
+	✓16. How to Identify REST Resources
+	✓17. How to Design URLs for REST Resources
+	✓18. How to Assign HTTP Methods to REST Resources
+	✓19. How to Model JSON Representation Format		
+✅Section 5:REST API Fundamentals-Best Practices
+	✓20. REST API Best Practices – Use Sub-Resources for Relations
+	✓21. REST API Best Practices – Use Plural Nouns to Name a Resource
+	✓22. REST API Best Practices – Use Proper HTTP Headers for Serialization Formats
+	✓23. REST API Best Practices - What HTTP Status Code to Return
+✅Section 6:REST API Fundamentals-Important Difference[Interview Question and Answer]
+	✓24. GET vs POST in REST API
+	✓25. POST vs PUT in REST API
+	✓26. PUT vs PATCH in REST API
+	✓27. HTTP vs HTTPS
+	✓28. REST vs SOAP
+	✓29. REST vs GraphQL
+✅Section 7:REST API Role Plays
+	
+✅Section 8:Spring Boot REST API Development Basics
+	✓30. Section Overview
+	✓31. Create and Set up Spring Boot Project in IntelliJ IDEA
+	✓32. Create Simple Spring Boot REST API - @GetMapping
+	✓33. Spring Boot REST API returns Java Bean
+	✓34. Create Spring Boot REST API returns List
+	✓35. Spring Boot REST API with Path Variable - @PathVariable
+	✓36. Spring Boot REST API with Request Param - @RequestParam
+	✓37. Spring Boot POST REST API - @PostMapping and @RequestBody	
+	Continue...
+	38. Spring Boot POST REST API - @PutMapping and @RequestBody	
+	39. Spring Boot DELETE REST API - @DeleteMapping
+	40. Using Spring ResponseEntity to Manipulate the HTTP Response
+	41. Define Base URL for REST API’s in Spring MVC Controller - @RequestMapping
+	42. What Happens When You Hit a Spring Boot REST API Endpoint
+	43. @Controller vs @RestController in Spring Boot - Asked in Interviews
+	44. Download Source Code of this Section
+	Quiz 1: Section Quiz - Test Yourself
+	
+✅Section 9:Building CURD REST API's with MYSQL Database	
+	45. Section Introduction
+	46. Create and Setup Spring Boot Project in IntelliJ
+	47. Using Lombok in IntelliJ IDEA (Resolved Lombok Related Issues in IntelliJ IDEA)
+	48. Configure MySQL Database in Spring Boot App
+	49. Create User JPA Entity
+	50. Create Spring Data JPA Repository - UserRepository
+	51. Lombok Issue Fixed
+	52. Build Create User REST API
+	53. Build Get User By ID REST API
+	54. Build Get All Users REST API
+	55. Build Update User REST API
+	56. Build Delete User REST API
+	57. Download Source Code of this Section
+	Quiz 2: Section Quiz - Test Yourself
