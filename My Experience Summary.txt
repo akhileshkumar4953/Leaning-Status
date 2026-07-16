@@ -1,0 +1,16 @@
+Professional Experience Summary
+👨‍💻 Total Professional Experience: 8 Years
+Core Technical Expertise
+
+Full-Stack Development: 6 Years
+Java Development: 6 Years
+Spring Boot: 5 Years
+Angular: 4 Years
+Microservices Architecture: 4 Years
+Database Development & Management: 4 Years
+
+Technology Stack
+Backend: Java, Spring Boot, Microservices
+Frontend: Angular
+Database: SQL Databases
+Development Type: Full-Stack Application Development
