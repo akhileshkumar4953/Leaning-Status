@@ -19,6 +19,8 @@ Weekends (Saturday - Sunday)
 
 	2. 2:45 PM - 5:15 PM
 	  💻 Coding (Java, SQL, Angular)
+	  
+Note:Need to learn :Build and push Docker Image to AWS ECR using Jenkins Pipleine|Jenkins Pipeline to build Docker image	  
 
 
 
